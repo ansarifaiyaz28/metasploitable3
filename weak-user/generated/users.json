@@ -1,0 +1,122 @@
+[
+  {
+    "username": "leia_organa",
+    "password_hash": "$1$N6DIbGGZ$LpERCRfi8IXlNebhQuYLK/",
+    "first_name": "Leia",
+    "last_name": "Organa",
+    "admin": true,
+    "salary": "9560"
+  },
+  {
+    "username": "luke_skywalker",
+    "password_hash": "$1$/7D55Ozb$Y/aKb.UNrDS2w7nZVq.Ll/",
+    "first_name": "Luke",
+    "last_name": "Skywalker",
+    "admin": true,
+    "salary": "1080"
+  },
+  {
+    "username": "han_solo",
+    "password_hash": "$1$6jIF3qTC$7jEXfQsNENuWYeO6cK7m1.",
+    "first_name": "Han",
+    "last_name": "Solo",
+    "admin": true,
+    "salary": "1200"
+  },
+  {
+    "username": "artoo_detoo",
+    "password_hash": "$1$tfvzyRnv$mawnXAR4GgABt8rtn7Dfv.",
+    "first_name": "Artoo",
+    "last_name": "Detoo",
+    "admin": false,
+    "salary": "22222"
+  },
+  {
+    "username": "c_three_pio",
+    "password_hash": "$1$lXx7tKuo$xuM4AxkByTUD78BaJdYdG.",
+    "first_name": "C",
+    "last_name": "Threepio",
+    "admin": false,
+    "salary": "3200"
+  },
+  {
+    "username": "ben_kenobi",
+    "password_hash": "$1$5nfRD/bA$y7ZZD0NimJTbX9FtvhHJX1",
+    "first_name": "Ben",
+    "last_name": "Kenobi",
+    "admin": false,
+    "salary": "10000"
+  },
+  {
+    "username": "darth_vader",
+    "password_hash": "$1$rLuMkR1R$YHumHRxhswnfO7eTUUfHJ.",
+    "first_name": "Darth",
+    "last_name": "Vader",
+    "admin": false,
+    "salary": "6666"
+  },
+  {
+    "username": "anakin_skywalker",
+    "password_hash": "$1$jlpeszLc$PW4IPiuLTwiSH5YaTlRaB0",
+    "first_name": "Anakin",
+    "last_name": "Skywalker",
+    "admin": false,
+    "salary": "1025"
+  },
+  {
+    "username": "jarjar_binks",
+    "password_hash": "$1$SNokFi0c$F.SvjZQjYRSuoBuobRWMh1",
+    "first_name": "Jar-Jar",
+    "last_name": "Binks",
+    "admin": false,
+    "salary": "2048"
+  },
+  {
+    "username": "lando_calrissian",
+    "password_hash": "$1$Af1ek3xT$nKc8jkJ30gMQWeW/6.ono0",
+    "first_name": "Lando",
+    "last_name": "Calrissian",
+    "admin": false,
+    "salary": "40000"
+  },
+  {
+    "username": "boba_fett",
+    "password_hash": "$1$TjxlmV4j$k/rG1vb4.pj.z0yFWJ.ZD0",
+    "first_name": "Boba",
+    "last_name": "Fett",
+    "admin": false,
+    "salary": "20000"
+  },
+  {
+    "username": "jabba_hutt",
+    "password_hash": "$1$9rpNcs3v$//v2ltj5MYhfUOHYVAzjD/",
+    "first_name": "Jaba",
+    "last_name": "Hutt",
+    "admin": false,
+    "salary": "65000"
+  },
+  {
+    "username": "greedo",
+    "password_hash": "$1$vOU.f3Tj$tsgBZJbBS4JwtchsRUW0a1",
+    "first_name": "Greedo",
+    "last_name": "Rodian",
+    "admin": false,
+    "salary": "50000"
+  },
+  {
+    "username": "chewbacca",
+    "password_hash": "$1$.qt4t8zH$RdKbdafuqc7rYiDXSoQCI.",
+    "first_name": "Chewbacca",
+    "last_name": "",
+    "admin": false,
+    "salary": "4500"
+  },
+  {
+    "username": "kylo_ren",
+    "password_hash": "$1$rpvxsssI$hOBC/qL92d0GgmD/uSELx.",
+    "first_name": "Kylo",
+    "last_name": "Ren",
+    "admin": false,
+    "salary": "6667"
+  }
+]
